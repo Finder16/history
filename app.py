@@ -4,7 +4,7 @@ app = Flask(__name__)
 app.secret_key = b'secret'
 
 users = {
-    "admin": "no~~~~~~",
+    "admin": "fakekey",
     "guest": "guest"
 }
 
